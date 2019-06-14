@@ -3,6 +3,4 @@ This bot is made for SA-MP roleplay servers to keep track of cap rotation among 
 You need to make a small database too so the fields don't get reset.
 ___________________________
 | pname      |   gname    |
---------------------------|
-|____________|____________|
-|____________|____________|
+__________________________
